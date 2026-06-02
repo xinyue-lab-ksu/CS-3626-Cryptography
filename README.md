@@ -100,7 +100,8 @@ Instructors may adapt the assignments based on course level, programming languag
 
 ## Course Videos
 
-Videos can be accessed using the following link: 
+Videos can be accessed using the following link: https://kennesawedu-my.sharepoint.com/:f:/g/personal/xzhang48_kennesaw_edu/IgAL-OaKsc2mTb7OEUPZEBWKAesgYZ89l_OogS8G0kUsLEI?e=ecgTrL.
+Password: CS3626
 
 ---
 
