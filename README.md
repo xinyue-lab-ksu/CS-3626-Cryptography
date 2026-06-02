@@ -161,7 +161,10 @@ These materials are provided for educational purposes. Cryptographic examples in
 ## Maintainer
 
 **Xinyue Zhang**
+
 Assistant Professor of Computer Science
+
 College of Computing and Software Engineering
+
 Kennesaw State University
 
