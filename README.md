@@ -98,6 +98,12 @@ Instructors may adapt the assignments based on course level, programming languag
 
 ---
 
+## Course Videos
+
+Videos can be accessed using the following link: 
+
+---
+
 ## How to Use This Repository
 
 ### For Students
